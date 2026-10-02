@@ -2,11 +2,11 @@
 
 From kaelnventures@gmail.com, signature Matt M. Phone + domain in every email. No money in T1–T4.
 
-Gate: Pages HTTP 200 before any send.
+Gate: Pages HTTP 200 confirmed 2026-10-02.
 
 | Shop | Phone | Domain | Touch | Status |
 |------|-------|--------|-------|--------|
-| Keystone Refrigeration | 215-788-5000 | keystonerefrigeration.net | T1 | not sent — Pages not confirmed 200 |
-| NH Refrigeration | 267-408-8666 | nhrefrigerationllc.wixsite.com | T1 | not sent — Pages not confirmed 200 |
+| Keystone Refrigeration | 215-788-5000 | keystonerefrigeration.net | T1 | sent 2026-10-02 to mike@keystonerefrigeration.net |
+| NH Refrigeration | 267-408-8666 | nhrefrigerationllc.wixsite.com | T1 | sent 2026-10-02 to nhrefrigerationllc@gmail.com |
 
-Phone-only holds (no inbox next to phone this run): Elmer Schultz, Polar Mechanical, BARO, RS Sales.
+T2 ~2026-10-05/06. Phone-only holds: Elmer Schultz, Polar Mechanical, BARO, RS Sales.
